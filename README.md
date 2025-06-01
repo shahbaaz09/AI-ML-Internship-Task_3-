@@ -70,10 +70,3 @@ The notebook includes a regression plot showing:
 4. Run all cells in order
 
 ---
-
-## 📬 Submission
-
-This project is submitted as part of the internship requirement.  
-Submission Link: [Google Form](https://forms.gle/yvVqhF5dFAz6dEZM6)
-
----
